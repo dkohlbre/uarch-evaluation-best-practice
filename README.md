@@ -38,6 +38,13 @@ All works should report the following:
 
 ### Example
 
+## Benchmarking
+
+We strongly encourage reading Gernot Heiser's discussion of
+[benchmarking errors](https://gernot-heiser.org/benchmarking-crimes.html)
+and the security relevant
+[follow up](https://arxiv.org/abs/1801.02381).
+
 # Attack evaluation guidelines
 
 # Defense evaluation guidelines
