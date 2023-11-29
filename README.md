@@ -3,7 +3,7 @@
 This is intended to be a community-run set of guidelines for:
  - Evaluation of microarchitectural attacks
  - Evaluation of microarchitectural defenses
- - Guidelines for ensuring reproducability of the above
+ - Guidelines for ensuring reproducibility of the above
 
 Our process is inspired by the excellent [SIGPLAN](https://raw.githubusercontent.com/SIGPLAN/empirical-evaluation/master/checklist/checklist.pdf) guidelines, which we intend to extend with microarchitecture-specific guidelines.
 
@@ -49,4 +49,4 @@ and the security relevant
 
 # Defense evaluation guidelines
 
-# Reproducability
+# Reproducibility
